@@ -1,3 +1,22 @@
+# template-svelte-storybook
+
+A template repository for development with svelte, storybook, rollup, jest, eslint, and babel.
+
+To create a new repository from this template, press the green `Use this template` button on this page.  Enter the new repo name and description, and copy the new repo's address.
+
+From your computer, enter:
+```
+> git clone https://github.com/cbevins/new-repo-name.git
+> cd new-repo-name
+> npm install
+```
+
+Modify the `package.json` file and apply the new repo name.
+
+Edit the `.storybook/main.js` file to include your storybook paths.
+
+---
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
