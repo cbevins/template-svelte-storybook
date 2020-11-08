@@ -19,7 +19,7 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "start": "sirv public",
+    "start": "sirv public --single",
     "storybook": "start-storybook -p 6005 -s public",
     "build-storybook": "build-storybook",
     "test": "jest --watchAll"
