@@ -5,6 +5,17 @@
   "main": "index.js",
   "author": "Collin D. Bevins <cbevins@montana.com>",
   "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbevins/template-svelte-storybook.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/cbevins/template-svelte-storybook/issues"
+  },
+  "homepage": "https://github.com/cbevins/template-svelte-storybook#readme",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
