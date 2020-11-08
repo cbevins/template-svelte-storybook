@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Collin D. Bevins <cbevins@montana.com>",
   "license": "MIT",
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/cbevins/template-svelte-storybook.git"
   },
